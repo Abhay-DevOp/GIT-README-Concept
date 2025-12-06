@@ -1,2 +1,2 @@
-# GIT-README-Concept
-Video 23
+# Learning GIT-README-Concept
+## Through Techzeen's Video-23
